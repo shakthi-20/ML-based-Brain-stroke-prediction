@@ -39,7 +39,7 @@ Ensure you have Python installed (preferably Python 3.8+).
 ### Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/stroke-prediction.git
+   git clone https://github.com/yourusername/ML-based-Brain-stroke-prediction.git
    cd stroke-prediction
    ```
 2. Install dependencies:
